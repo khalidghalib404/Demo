@@ -1,0 +1,62 @@
+<script>
+
+// #TASK1 Hello
+// let Name = prompt ("what is your name")
+// let greeting = 'salam '
+// console.log(greeting,Name)
+
+
+
+
+// TASK2 Division
+// let Number = prompt("enter a number")
+// let Nam =  prompt("enter another number ")
+// console.log(Number/Nam)
+
+
+//Task 3
+// let num = prompt("enter a number")
+// if(num % 2 === 0){
+//     console.log('even')
+// }else {
+//     console.log('odd')
+// }
+
+
+
+
+//Task 4 Agree
+// let response = prompt("do you agree")
+// if(response === 'y' ){
+//     console.log('Agreed')
+// }else if ( response === 'n'){
+//     console.log('Not Agreed')
+// }
+
+
+
+
+// Task 5 Allhamdulillah
+// for(let i = 0; i < 3; i++){
+//     console.log('allhamdulilla')
+// }
+
+
+
+
+// Task 6 
+// for(let i = 0; i < 100; i++){
+
+//     if(i %3 == 0 ){
+//       console.log( i+'Fizz')  
+   
+//     }
+//      else if (i % 3 == 0 && i % 5== 0){
+//       onsole.lcog(i+'FizzBuzz')  
+//     }
+    
+//      else if ( i % 5 == 0 ){
+//      console.log(i+'Buzz')
+//     }
+
+</script>
